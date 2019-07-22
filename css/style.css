@@ -101,3 +101,38 @@ body{
   left: 50%;
   transform: translate(-50%, -50%);
 }
+
+#grid {
+  display: grid;
+  grid-template-rows: 1fr 1fr ;
+  grid-template-columns:1fr 1fr 1fr 1fr ;
+  grid-gap: 30px;
+  margin: 1px;
+
+
+  }
+#grid > div {
+  font-size: 5vw;
+  margin-left: 0px;
+width: 100px;
+}
+
+#grid2 {
+  display: grid;
+  grid-template-rows: 1fr  1fr ;
+  grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr  ;
+  grid-gap: 20px;
+  margin: 1px;
+
+
+  }
+#grid2 > div {
+  font-size: 5vw;
+  margin-left: 0px;
+  margin: 0px;
+  wid
+    padding:0px;
+}
+/* ending imege */
+
+/* adding form*/
