@@ -34,3 +34,14 @@ body{
   font-size:25px;
   padding-bottom: 80px;
 }
+
+.text3{
+  text-align: center;
+  color: white;
+  padding: 30px;
+  font-size:150%;
+  font-family: sans-serif;
+  text-indent: 50px;
+  letter-spacing: 3px;
+   line-height: 1.9;
+}
