@@ -18,3 +18,12 @@ body{
   background-repeat: no-repeat;
   background-size: cover;
 }
+/* adding text */
+.text{
+  text-align: center;
+  color: ;
+  padding: 80px;
+  height:400px;
+  background-color:white;
+  font-size:20px;
+}
