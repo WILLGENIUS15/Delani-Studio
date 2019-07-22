@@ -45,3 +45,12 @@ body{
   letter-spacing: 3px;
    line-height: 1.9;
 }
+
+.text4{
+  text-align: center;
+  color: white;
+  padding: 30px;
+  font-size:150%;
+  font-family: sans-serif;
+
+}
